@@ -1,0 +1,41 @@
+* {
+  background-color: #e3fcbf;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.podcastDiv {
+  margin: 2rem;
+}
+.button {
+  /* background-color: #4CAF50; Green */
+  /* border: ; */
+  margin: 1rem;
+  border-color: ;
+  background-color: #14c38e;
+  color: whitesmoke;
+  padding: 8px 13px;
+  border: 1px none;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 8px;
+  font-size: 16px;
+}
+.button:hover {
+  background-color: red;
+  color: white;
+  border: none;
+}
+.podcastName {
+  margin: 3rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  padding: 10px 13px;
+  border-color: whitesmoke;
+  border-style: outset;
+  text-align: left;
+  border-radius: 0.5rem;
+  box-shadow: red;
+}
